@@ -13,7 +13,7 @@ Miau
     `-'                   '--------------------------'
 
 <<<<<<< HEAD
-PERROS, GATOS O UNICORNIOS?
+PERROS, GATOS O UNICORNIOS? None, Dragon.
 
 ............(¯`'..
 ..............(¯'.(¯'............._/)/)
