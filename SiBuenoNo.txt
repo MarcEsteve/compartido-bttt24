@@ -1,3 +1,7 @@
 Tengo hambre...
 a las 11:30h XD
+<<<<<<< Updated upstream
 Unas bravas al menos :(
+=======
+fjsfsjfdjfjdf
+>>>>>>> Stashed changes
