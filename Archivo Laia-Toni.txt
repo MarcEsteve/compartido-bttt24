@@ -1,2 +1,4 @@
 Holi k tal
-Hola soy santos me he colado como estais?
+<<<<<<< HEAD
+Aqui de chill, tu?:)
+
