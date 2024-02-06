@@ -1,4 +1,4 @@
-Miau
+- Miau
                       __
                      .'  '.
                  _.-'/  |  \
@@ -13,7 +13,7 @@ Miau
     `-'                   '--------------------------'
 
 <<<<<<< HEAD
-PERROS, GATOS O UNICORNIOS? None, Dragon.
+--PERROS, GATOS O UNICORNIOS? None, Dragon.
 
 ............(¯`'..
 ..............(¯'.(¯'............._/)/)
@@ -29,7 +29,7 @@ PERROS, GATOS O UNICORNIOS? None, Dragon.
 ((........) \\.................) \...........\|/
 .^^^^.""'"'.^^^^^^^..""".^^^^.""""
 =======
-AQUÍ TIENES TU DRAGÓN
+--AQUÍ TIENES TU DRAGÓN
 11111111¶111111111111111111111111111111111111 
 11111111¶¶¶1111111111111111111111111111111111 
 111111111¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶111111111111111111 
@@ -104,7 +104,7 @@ AQUÍ TIENES TU DRAGÓN
 1111111111111111111111¶¶111111111111111111111 
 11111111111111111111¶¶11111111111111111111111
 
-O MEJOR ESTE? 
+--O MEJOR ESTE? 
                 \||/
                 |  @___oo
       /\  /\   / (__,,,,|
@@ -117,7 +117,7 @@ O MEJOR ESTE?
  | \____(      )___) )___
   \______(_______;;; __;;;
 
-Los dos estan bien.
+-Los dos estan bien.
 =======
 Archivo propiedad de Jessica y Isaac 
 Sabemos donde vives
