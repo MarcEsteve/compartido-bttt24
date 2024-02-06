@@ -12,3 +12,5 @@ Laia
 Abdel
 Aurora
 Alejandro
+Isabel
+Isaac
